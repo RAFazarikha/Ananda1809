@@ -278,6 +278,7 @@ h3{
     border: solid #EBD3F8;
     border-left: none;
     padding: 10px;
+    height: 105px;
 }
 
 .ucapan{
@@ -285,7 +286,7 @@ h3{
     border: solid #EBD3F8;
     border-right: none;
     padding: 10px;
-    height: 106px;
+    height: 105px;
 }
 
 .slide-content {
